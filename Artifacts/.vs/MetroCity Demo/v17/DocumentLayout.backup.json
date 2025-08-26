@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal Repo\\MetroCity Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2665940-C426-4030-9126-32B0E658D31E}|MetroCity Demo.csproj|d:\\personal repo\\metrocity demo\\cities.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B2665940-C426-4030-9126-32B0E658D31E}|MetroCity Demo.csproj|solutionrelative:cities.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2665940-C426-4030-9126-32B0E658D31E}|MetroCity Demo.csproj|D:\\Personal Repo\\MetroCity Demo\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2665940-C426-4030-9126-32B0E658D31E}|MetroCity Demo.csproj|solutionrelative:Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2665940-C426-4030-9126-32B0E658D31E}|MetroCity Demo.csproj|D:\\Personal Repo\\MetroCity Demo\\Cities.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2665940-C426-4030-9126-32B0E658D31E}|MetroCity Demo.csproj|solutionrelative:Cities.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2665940-C426-4030-9126-32B0E658D31E}|MetroCity Demo.csproj|D:\\Personal Repo\\MetroCity Demo\\Scripts\\Cities.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B2665940-C426-4030-9126-32B0E658D31E}|MetroCity Demo.csproj|solutionrelative:Scripts\\Cities.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Personal Repo\\MetroCity Demo\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Personal Repo\\MetroCity Demo\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-26T05:25:15.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cities.aspx.cs",
+              "DocumentMoniker": "D:\\Personal Repo\\MetroCity Demo\\Cities.aspx.cs",
+              "RelativeDocumentMoniker": "Cities.aspx.cs",
+              "ToolTip": "D:\\Personal Repo\\MetroCity Demo\\Cities.aspx.cs",
+              "RelativeToolTip": "Cities.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T05:23:32.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cities.js",
+              "DocumentMoniker": "D:\\Personal Repo\\MetroCity Demo\\Scripts\\Cities.js",
+              "RelativeDocumentMoniker": "Scripts\\Cities.js",
+              "ToolTip": "D:\\Personal Repo\\MetroCity Demo\\Scripts\\Cities.js",
+              "RelativeToolTip": "Scripts\\Cities.js",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-26T05:20:22.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cities.aspx",
+              "DocumentMoniker": "D:\\Personal Repo\\MetroCity Demo\\Cities.aspx",
+              "RelativeDocumentMoniker": "Cities.aspx",
+              "ToolTip": "D:\\Personal Repo\\MetroCity Demo\\Cities.aspx",
+              "RelativeToolTip": "Cities.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-26T05:18:36.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
