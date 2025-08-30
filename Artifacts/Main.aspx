@@ -1,0 +1,18 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Main.aspx.cs" Inherits="MetroCity_Demo.Main" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Main Page</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/Main.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Welcome to the Metro World!!</h1>
+    <div class="btn-container">
+        <button class="btn-main btn-primary" onclick="location.href='Cities.aspx'">Go to Approach 1: Basic</button>
+        <button class="btn-main btn-secondary" onclick="location.href='CitiesCategorization.aspx'">Go to Approach 2: Advanced</button>
+    </div>
+</body>
+</html>

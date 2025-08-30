@@ -69,6 +69,12 @@
   <ItemGroup>
     <None Include="Scripts\jquery-3.7.1.intellisense.js" />
     <Content Include="Cities.aspx" />
+    <Content Include="CitiesCategorization.aspx" />
+    <Content Include="Content\Cty.css" />
+    <Content Include="Content\Main.css" />
+    <Content Include="Content\CtyCat.css" />
+    <Content Include="Main.aspx" />
+    <Content Include="Scripts\CitiesCat.js" />
     <Content Include="Scripts\Cities.js" />
     <Content Include="Scripts\jquery-3.7.1.js" />
     <Content Include="Scripts\jquery-3.7.1.min.js" />
@@ -85,6 +91,20 @@
     </Compile>
     <Compile Include="Cities.aspx.designer.cs">
       <DependentUpon>Cities.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CitiesCategorization.aspx.cs">
+      <DependentUpon>CitiesCategorization.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CitiesCategorization.aspx.designer.cs">
+      <DependentUpon>CitiesCategorization.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Main.aspx.cs">
+      <DependentUpon>Main.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Main.aspx.designer.cs">
+      <DependentUpon>Main.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
