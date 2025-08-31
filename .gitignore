@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Artifacts
+/Artifacts/.vs/MetroCity Demo/FileContentIndex
+/Artifacts/.vs/MetroCity Demo/FileContentIndex/3fe319a0-b26d-4a00-8bf3-52060c45e2b7.vsidx
+/Artifacts/.vs/MetroCity Demo/FileContentIndex/494dc622-1575-43f5-a39a-5d35f614740f.vsidx
+/Artifacts/obj/Debug
+/Artifacts/obj/Debug/MetroCit.8FAA0AD2.Up2Date
+/Artifacts/obj/Debug/MetroCity Demo.csproj.CoreCompileInputs.cache
+/Artifacts/obj/Debug/MetroCity Demo.dll
+/Artifacts/obj/Debug/MetroCity Demo.pdb
+/Artifacts/Main.aspx
