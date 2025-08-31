@@ -48,7 +48,7 @@
         </div>
     </form>
     <div class="return-main-link-fixed">
-        <a href="Main.aspx" >Return to Main Page...</a>
+        <a href="index.html" >Return to Main Page...</a>
     </div>
 </body>
 </html>
